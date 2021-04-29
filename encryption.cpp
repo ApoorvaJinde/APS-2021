@@ -1,4 +1,4 @@
-#https://www.hackerrank.com/challenges/encryption/problem
+//https://www.hackerrank.com/challenges/encryption/problem
 
 #include<stdio.h>
 #include<string.h>
